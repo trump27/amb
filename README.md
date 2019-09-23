@@ -1,7 +1,6 @@
 amb_v1
 ======
 
-### About
-
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+### 説明
+これはプロジェクトのREADME.mdファイルです。このファイルには、
+プロジェクトの説明、利用方法、その他の情報を記載します。
